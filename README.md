@@ -1,7 +1,7 @@
-# SYSTEM_AUTOMATON
+# SYSTEM_AUTOMATON 📌
 
-## Đây là đồ án quản trị mạng và hệ thống, trình bày khả năng quản trị mạng, cấu hình ứng dụng, triển khai tài nguyên 
-### Ứng dụng được FOCUS ở đây : ANSIBLE ( Ansible is an open source automation and orchestration tool for software provisioning, configuration management, and software deployment )
+## Đây là đồ án quản trị mạng và hệ thống, trình bày khả năng quản trị mạng, cấu hình ứng dụng, triển khai tài nguyên 📌
+### Ứng dụng được FOCUS ở đây : ANSIBLE ( Ansible is an open source automation and orchestration tool for software provisioning, configuration management, and software deployment ) 🛠
   + YAML
   + IP 
   + SSH
